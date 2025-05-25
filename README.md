@@ -1,1 +1,1 @@
-# Mechanics-II
+# Mechanics
